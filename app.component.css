@@ -1,0 +1,26 @@
+.container-fluid{ 
+  background: url("https://image.freepik.com/free-vector/light-blue-abstract-background-with-bokeh-form-circles_78007-519.jpg") no-repeat center center fixed; 
+  height: 200%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+}
+
+.form-group{
+  width: 90%;
+display: flex;
+justify-content: center;
+flex-wrap: wrap;
+padding-left: 9%; 
+}
+
+#button{
+border: 3px white;
+background-color:black;
+}
+
+
+
+
+
